@@ -1,1 +1,1 @@
-!(https://www.codeship.io/projects/ed808fa0-8a5a-0131-9c9c-4a87511fc199/status)
+[![Build Status](https://www.codeship.io/projects/ed808fa0-8a5a-0131-9c9c-4a87511fc199/status)](https://www.codeship.io/projects/ed808fa0-8a5a-0131-9c9c-4a87511fc199/status)
